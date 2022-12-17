@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian Smolczyński</h1>
 <h3 align="center">Software Developer, SAS Technical Intern</h3>
 
+<a href="https://wakatime.com/@743da0dd-2dfa-46fe-a98d-a58d8e0684d4"><img src="https://wakatime.com/badge/user/743da0dd-2dfa-46fe-a98d-a58d8e0684d4.svg" alt="Total time coded since Dec 12 2022" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsmolke&label=Profile%20views&color=0e75b6&style=flat" alt="dsmolke" /> </p>
 
 - 🔭 I’m currently working on **data analysis, data quality projects at my internship**
