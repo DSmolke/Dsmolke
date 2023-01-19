@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **data analysis, data quality projects at my internship**
 
-- 🌱 I’m currently learning **Python, doing some projects in TDD convention**
+- 🌱 I’m currently learning **Python, doing some projects in TDD convention using pytest and unittest, learning poetry and pipenv. This week I also start to learn Docker, Git, SQL. Wish me a good luck :)**
 
 - 💬 Ask me about **Python, SAS 9.4**
 
