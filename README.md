@@ -4,7 +4,7 @@
 <a href="https://wakatime.com/@743da0dd-2dfa-46fe-a98d-a58d8e0684d4"><img src="https://wakatime.com/badge/user/743da0dd-2dfa-46fe-a98d-a58d8e0684d4.svg" alt="Total time coded since Dec 12 2022" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsmolke&label=Profile%20views&color=0e75b6&style=flat" alt="dsmolke" /> </p>
 
-- 🔭 I’m currently working as **Technical Consultant in PZU S.A project**
+- 🔭 I’m currently working as **Senior Associate Technical Consultant in PZU S.A project**
 
 - 🌱 I’m currently learning **Python, JavaScript and Oracle SQL**
 
